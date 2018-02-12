@@ -1,4 +1,22 @@
 # Source Code Accompanying the Paper "More on Network Approaches in Historical Chinese Phonology"
+
+This repository contains source code and data for the following paper:
+
+* List, Johann-Mattis (2018): **More on network approaches in Historical Chinese Phonology (音韻學)**. Paper prepared for the *LFK Society Young Scholars Symposium*. Taibei: Li Fang-Kuei Society ofr Chinese Linguistics. URL: [https://hal.archives-ouvertes.fr/hal-01706927](https://hal.archives-ouvertes.fr/hal-01706927).
+
+```bibtex
+@InProceedings{List2018a,
+  author      = {List, Johann-Mattis},
+  title       = {{More on Network Approaches in Historical Chinese Phonology (音韻學)}},
+  booktitle   = {{LFK Society Young Scholars Symposium}},
+  year        = {2018},
+  publisher   = {Li Fang-Kuei Society for Chinese Linguistics},
+  pdf        = {https://hal.archives-ouvertes.fr/hal-01706927/file/main.pdf},
+  url        = {https://hal.archives-ouvertes.fr/hal-01706927},
+  address     = {Taipei},
+  hal_id      = {hal-01706927},
+}
+```
  
 ## Requirements
 
